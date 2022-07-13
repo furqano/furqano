@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating LVM With Hadoop &amp; Providing Elasticity to DataNode Storage](https://mohamedfurqan-o.medium.com/integrating-lvm-with-hadoop-providing-elasticity-to-datanode-storage-97044691edd3?source=rss-66f56919c03------2)
+- [Increase or Decrease the Size of Static Partition in Linux](https://mohamedfurqan-o.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-7e25fad5921e?source=rss-66f56919c03------2)
+- [Configuring Docker Images for Python and Webserver](https://mohamedfurqan-o.medium.com/configuring-docker-images-for-python-and-webserver-6ab1a4a888f7?source=rss-66f56919c03------2)
+- [High Availability Architecture with AWS CLI](https://mohamedfurqan-o.medium.com/high-availability-architecture-with-aws-cli-88b5d17264e2?source=rss-66f56919c03------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
