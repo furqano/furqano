@@ -1,8 +1,7 @@
-[![MasterHead](https://devs-consulting.com/wp-content/uploads/2020/07/software-developer.jpg)]()
 <h1 align="center">Hi There 👋, I'm Mohamed Furqan</h1>
 <h3 align="center">I'am a Software Engineer and thought I’d share my work with you.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.kissclipart.com/software-engineer-clipart-programmer-computer-soft-senzlv/">
+<img align="right" alt="Coding" width="400" src="https://www.pngkit.com/png/full/625-6252897_software-engineer-clipart-programmer-computer-software-software-engineer.png">
 - 👨‍💻 All of my projects are available at [https://github.com/furqano/](https://github.com/furqano/)
 
 - 📫 How to reach me **mohamedfurqan.ocert@gmail.com**
