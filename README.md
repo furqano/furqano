@@ -8,7 +8,7 @@
 - 📫 How to reach me **mohamedfurqan.ocert@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->v
 - [Automating LVM using Python Script](https://mohamedfurqan-o.medium.com/automating-lvm-using-python-script-d7279a786723?source=rss-66f56919c03------2)
 - [Integrating LVM With Hadoop &amp; Providing Elasticity to DataNode Storage](https://mohamedfurqan-o.medium.com/integrating-lvm-with-hadoop-providing-elasticity-to-datanode-storage-97044691edd3?source=rss-66f56919c03------2)
 - [Increase or Decrease the Size of Static Partition in Linux](https://mohamedfurqan-o.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-7e25fad5921e?source=rss-66f56919c03------2)
